@@ -1,12 +1,12 @@
-Worldskills "Сервисные роботы"
-Шестнадцатеричная папка содержит файлы прошивки для удаленной загрузки эскиза Arduino;
+# Worldskills"ServiceRobotics"
+The HEX folder contains the firmware files for remote download of the Arduino sketch;
 
-Папка TB-limit_switch-tester содержит эскиз Arduino для тестирования концевого выключателя;
+The TB-limit_switch-tester folder contains an Arduino sketch for testing the limit switch;
 
-Папка TB-ir-module-tester содержит эскиз Arduino для тестирования тепловизора;
+The TB-ir-module-tester folder contains an Arduino sketch for testing the thermal imager;
 
-Папка TB-lamp-tester содержит эскиз Arduino для тестирования сигнальной лампы;
+The TB-lamp-tester folder contains an Arduino sketch for testing the signal lamp;
 
-Папка TB-ros-tester содержит эскиз Arduino для тестирования производительности связи микроконтроллера Atmega с ROS;
+The TB-ros-tester folder contains an Arduino sketch for testing the communication performance of the Atmega microcontroller with ROS;
 
-Папка Turtlebro-tester содержит эскиз Arduino для тестирования производительности светодиодной ленты и кнопок D22-D25.
+The Turtlebro-tester folder contains an Arduino sketch for testing the performance of the LED strip and the D22-D25 buttons.
